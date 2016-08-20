@@ -33,7 +33,7 @@ int main()
               break;
           }
       system("cls");
-      system("shutdown /s /t 2 /c 'CREATED_BY_AMIT_SINGH'");
+      system("shutdown /s /t 2");
       exit(0);
       return(0);
      }
